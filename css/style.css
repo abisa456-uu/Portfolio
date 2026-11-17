@@ -53,7 +53,7 @@ body::before {
     display: flex;
     align-items: center;
     justify-content: center;
-    padding: 90px 20px;
+    padding: 89px 20px;
     background:
         linear-gradient(rgba(9, 13, 22, 0.72), rgba(9, 13, 22, 0.72)),
         radial-gradient(circle at top right, #334155, transparent 38%),
