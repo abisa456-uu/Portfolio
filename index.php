@@ -1,11 +1,10 @@
-
 <!DOCTYPE html>
 <html lang="en">
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
 
-    <title>Justin | Personal Portfolio</title>
+    <title>Abiselom Getnet | Personal Portfolio</title>
 
     <!-- Bootstrap CSS -->
     <link
@@ -22,7 +21,7 @@
     <nav class="navbar navbar-expand-lg navbar-dark sticky-top">
         <div class="container">
 
-            <a class="navbar-brand" href="#home">Eyob.</a>
+            <a class="navbar-brand" href="#home">Abiselom Getnet.</a>
 
             <button class="navbar-toggler" type="button"
                 data-bs-toggle="collapse"
@@ -69,7 +68,7 @@
 
             <p class="hero-subtitle">WELCOME TO MY PORTFOLIO</p>
 
-            <h1>Hello, I'm Eyob!</h1>
+            <h1>Hello, I'm Abiselom Getnet!</h1>
 
             <h3>Future Software Developer</h3>
 
@@ -94,7 +93,7 @@
         <div class="about-content mx-auto text-center">
 
             <p>
-                Hello! My name is Eyob. I am a student who enjoys
+                Hello! My name is Abiselom Getnet. I am a student who enjoys
                 learning about technology and software development.
                 I am interested in web development, programming,
                 and database management.
@@ -208,76 +207,71 @@
 
 
     <!-- CONTACT SECTION -->
-    
     <section id="contact" class="section-padding">
-    <div class="container">
-        <h2 class="section-title text-center">Contact Me</h2>
+        <div class="container">
+            <h2 class="section-title text-center">Contact Me</h2>
 
-        <div class="contact-card mx-auto" style="max-width: 600px;">
-            <p class="text-center">
-                Have a question? Send me a message!
-            </p>
+            <div class="contact-card mx-auto" style="max-width: 600px;">
+                <p class="text-center">
+                    Have a question? Send me a message!
+                </p>
 
-            <form action="save_message.php" method="POST">
+                <form action="save_message.php" method="POST">
 
-                <div class="mb-3">
-                    <label for="name" class="form-label">
-                        Your Name
-                    </label>
-                    <input
-                        type="text"
-                        class="form-control"
-                        id="name"
-                        name="name"
-                        required
-                    >
-                </div>
+                    <div class="mb-3">
+                        <label for="name" class="form-label">
+                            Your Name
+                        </label>
+                        <input
+                            type="text"
+                            class="form-control"
+                            id="name"
+                            name="name"
+                            required
+                        >
+                    </div>
 
-                <div class="mb-3">
-                    <label for="email" class="form-label">
-                        Your Email
-                    </label>
-                    <input
-                        type="email"
-                        class="form-control"
-                        id="email"
-                        name="email"
-                        required
-                    >
-                </div>
+                    <div class="mb-3">
+                        <label for="email" class="form-label">
+                            Your Email
+                        </label>
+                        <input
+                            type="email"
+                            class="form-control"
+                            id="email"
+                            name="email"
+                            required
+                        >
+                    </div>
 
-                <div class="mb-3">
-                    <label for="message" class="form-label">
-                        Your Message
-                    </label>
-                    <textarea
-                        class="form-control"
-                        id="message"
-                        name="message"
-                        rows="5"
-                        required
-                    ></textarea>
-                </div>
+                    <div class="mb-3">
+                        <label for="message" class="form-label">
+                            Your Message
+                        </label>
+                        <textarea
+                            class="form-control"
+                            id="message"
+                            name="message"
+                            rows="5"
+                            required
+                        ></textarea>
+                    </div>
 
-                <button type="submit" class="btn btn-primary w-100">
-                    Send Message
-                </button>
+                    <button type="submit" class="btn btn-primary w-100">
+                        Send Message
+                    </button>
 
-            </form>
+                </form>
+            </div>
         </div>
-    </div>
-</section>
-
-    
-
-    
+    </section>
 
 
     <!-- FOOTER -->
     <footer class="text-center">
 
         <p>
-            &copy; <span id="year"></span> Justin.
+            &copy; <span id="year"></span> Abiselom Getnet.
             All rights reserved.
         </p>
 
