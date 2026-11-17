@@ -1,6 +1,6 @@
 
 -- ==========================================
--- JUSTIN'S PERSONAL PORTFOLIO DATABASE
+-- ABISELOM GETNET'S PERSONAL PORTFOLIO DATABASE
 -- Compatible with XAMPP (MySQL / MariaDB)
 -- ==========================================
 
@@ -68,3 +68,4 @@ SELECT * FROM contact_messages;
 
 SELECT COUNT(*) AS total_projects
 FROM projects;
+
