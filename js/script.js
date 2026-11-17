@@ -1,11 +1,10 @@
-
 // =====================================
 // 1. WAIT FOR THE PAGE TO LOAD
 // =====================================
 
 document.addEventListener("DOMContentLoaded", function () {
 
-    console.log("Welcome to Justin's Portfolio!");
+    console.log("Welcome to Abiselom Getnet's Portfolio!");
 
     // =====================================
     // 2. AUTOMATIC FOOTER YEAR
