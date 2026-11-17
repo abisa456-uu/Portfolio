@@ -4,7 +4,7 @@
 
 document.addEventListener("DOMContentLoaded", function () {
 
-    console.log("Welcome to Abiselom Getnet's Portfolio!");
+    console.log("Welcome to Abiselom Getnet's Portfolio");
 
     // =====================================
     // 2. AUTOMATIC FOOTER YEAR
