@@ -4,7 +4,7 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
 
-    <title>Abiselom Getnet | Personal Portfolio</title>
+    <title>Abiselom Getnet's | Personal Portfolio</title>
 
     <!-- Bootstrap CSS -->
     <link
