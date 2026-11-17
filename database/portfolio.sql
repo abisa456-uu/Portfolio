@@ -1,6 +1,6 @@
 
 -- ==========================================
--- ABISELOM GETNET'S PERSONAL PORTFOLIO DATABASE
+--- ABISELOM GETNET'S PERSONAL PORTFOLIO DATABASE
 -- Compatible with XAMPP (MySQL / MariaDB)
 -- ==========================================
 
